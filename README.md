@@ -80,3 +80,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
+## 📁 My Projects
+
+- 🚗 [Autopredict](https://github.com/Maymasi/Autopredict) — Prediction of vehicle prices using ML & Flask API  
+- 🏠 [Student Housing Platform](https://github.com/Maymasi/StudentHousingPlatform) — Web app for student housing management (React + Node.js)  
+- 🧠 [Disease Prediction AI](https://github.com/Maymasi/DiseasePredictionAI) — Machine learning model for predicting diseases based on symptoms  
+
+
