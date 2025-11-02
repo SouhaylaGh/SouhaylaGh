@@ -9,7 +9,7 @@
 ## 🚀 About Me
 <span style="font-size: 20px; color: #36BCF7;">👩‍💻 Name: Souhayla Ghanem</span>  
 <span style="font-size: 18px; color: #000;">🎓 Engineering Student: ENSA Safi</span>  
-<span style="font-size: 16px; color: #555;">💡 Full Stack developer with solid experience in HTML, CSS, JavaScript, and ReactJS for front-end development, as well as proven expertise in back-end with Node.js and Laravel. Passionate about creating high-performance, intuitive, and innovative web applications, I am eager to further enhance my skills in web development and AI.</span>
+<span style="font-size: 16px; color: #555;">💡 Full Stack developer with solid experience in HTML, CSS, JavaScript, and ReactJS for front-end development, as well as proven expertise in back-end with Node.js, Laravel, and .NET. Passionate about creating high-performance, intuitive, and innovative web applications, I am eager to further enhance my skills in web development and AI.</span>
 
 
 ## 🌐 Connect with Me  
@@ -74,16 +74,19 @@
 </table>
 
 ---
+## 📁 My Projects  
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+- 🧠 **Disease Prediction App** — Machine learning model for predicting diseases based on symptoms  
+  🔹 Frontend: [PredictApp](https://github.com/Maymasi/PredictApp)  
+  🔹 Backend: [ApiPredictApp](https://github.com/Maymasi/ApiPredictApp)  
 
-## 📁 My Projects
+- 🚗 **AutoPredict** — Prediction of vehicle prices using ML & Flask API  
+  🔹 Frontend: [AutoPredict](https://github.com/SouhaylaGh/AutoPredict)  
+  🔹 Backend: [Autopredict_backend](https://github.com/SouhaylaGh/Autopredict_backend)  
 
-- 🚗 [Autopredict](https://github.com/Maymasi/Autopredict) — Prediction of vehicle prices using ML & Flask API  
-- 🏠 [Student Housing Platform](https://github.com/Maymasi/StudentHousingPlatform) — Web app for student housing management (React + Node.js)  
-- 🧠 [Disease Prediction AI](https://github.com/Maymasi/DiseasePredictionAI) — Machine learning model for predicting diseases based on symptoms  
+- 🏠 **Student Housing Platform** — Web app for student housing management  
+  🔹 Repo: [projet--logement-tudiant-documentation](https://github.com/SouhaylaGh/projet--logement-tudiant-documentation)  
 
-
+- 💼 **Stage Platform** — Plateforme web innovante dédiée à la gestion des demandes et offres de stages  
+  🔹 Frontend: [stage-platform-react](https://github.com/SouhaylaGh/stage-platform-react)  
+  🔹 Backend: [stage-platform-backend](https://github.com/SouhaylaGh/stage-platform-backend)  
